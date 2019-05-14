@@ -1,5 +1,5 @@
 ### LSANet: Feature Learning on Point Sets by Local Spatial Attention
-
+Thanks to [Xuan-Yi Li](https://github.com/meteorshowers),and [Deng-Ping Fan](https://github.com/DengPingFan)'s help. 
 #### Introduction
 
 We design a novel **Local Spatial Attention** (LSA) module to adaptively generate attention maps according to the spatial distribution of local regions. The feature learning process which integrates with these attention maps can effectively capture the local geometric structure. The experiments show that our LSA-based network, named **LSANet**, can achieve on par or better performance than the state-of-the-art methods when evaluating on the challenging benchmark datasets. The network architecture of LSANet and LSA module are shown below.
@@ -37,4 +37,4 @@ python train_multi_gpu_one_hot.py
 
 #### Useful links
 
-Awesome point set learning [<https://github.com/LinZhuoChen/awesome-point-cloud-learning>]
+[Awesome point set learning] (https://github.com/LinZhuoChen/awesome-point-cloud-learning)
