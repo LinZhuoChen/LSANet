@@ -4,9 +4,9 @@
 
 We design a novel **Local Spatial Attention** (LSA) module to adaptively generate attention maps according to the spatial distribution of local regions. The feature learning process which integrates with these attention maps can effectively capture the local geometric structure. The experiments show that our LSA-based network, named **LSANet**, can achieve on par or better performance than the state-of-the-art methods when evaluating on the challenging benchmark datasets. The network architecture of LSANet and LSA module are shown below.
 
-![LSANet](figure\LSANet.png)
+![LSANet](/figure/LSANet.png)
 
-![LSA module](figure\LSA_module.png)
+![LSA module](/figure/LSA_module.png)
 
 #### Installation
 
