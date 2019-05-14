@@ -37,4 +37,4 @@ python train_multi_gpu_one_hot.py
 
 #### Useful links
 
-[Awesome point set learning] (https://github.com/LinZhuoChen/awesome-point-cloud-learning)
+[Awesome point set learning](https://github.com/LinZhuoChen/awesome-point-cloud-learning)
